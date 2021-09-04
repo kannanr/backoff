@@ -1,3 +1,3 @@
-module github.com/jpillora/backoff
+module github.com/kannanr/backoff
 
 go 1.13
